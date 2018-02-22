@@ -1,2 +1,2 @@
-# slatex-poc
-Proving ground for things related to slatex
+# dataflow
+Proving ground for things related dataflow
